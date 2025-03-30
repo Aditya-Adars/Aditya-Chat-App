@@ -8,7 +8,7 @@ Frontend And Backend
 <br>
 This is in the progress not completed yet now
 <br>
-As soon as possible I can apload all the Projects
+As soon as possible I can upload all the Projects
 
 
 - Aditya Adarsh
