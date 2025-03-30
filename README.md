@@ -1,5 +1,14 @@
 # Aditya-App
 
-My Second Flutter project (Chat App Ui)
+My Second Flutter project (Chat App)
 <br>
-Author - Aditya Adarsh
+Fully functional Chat App 
+<br>
+Frontend And Backend 
+<br>
+This is in the progress not completed yet now
+<br>
+As soon as possible I can apload all the Projects
+
+
+- Aditya Adarsh
